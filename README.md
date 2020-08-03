@@ -4,7 +4,7 @@ This is a study on the dataset of Framingham Heart Patients.
 
 The model predicts whether the patients will have 10-year CHD or not depending on various parameters.
 
-I provided EDA (Exploratory Data Analysis), pre-processed data, modelled data on different classification models.
+EDA (Exploratory Data Analysis) is done on the given dataset. The data is pre-processed, cleaned and then it is modelled on different classification models.
 
 ## Dataset Source
 
@@ -16,11 +16,11 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
 To run the project (ipynb file):
 
-    You need a jupyter notebook
-    The modules required are :
-        numpy
-        seaborn
-        pandas
-        matplotlib
-        sklearn
+	- You need a jupyter notebook
+	- Modules Required :
+		- numpy
+		- pandas
+		- seaborn
+		- matplotlib
+		- sklearn
 
